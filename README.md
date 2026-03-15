@@ -2,7 +2,7 @@
 
 Student • Full Stack Dev • Builder
 
-Always working on something — whether it's a side project or something more serious.
+Always working on something - whether it's a side project or something more serious.
 
 ---
 
