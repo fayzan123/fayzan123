@@ -18,7 +18,10 @@ Always working on something - whether it's a side project or something more seri
 ---
 ## 🚀 Past Projects
 **[ThisThenThat](https://github.com/fayzan123/thisthenthat)** — upload your assignment PDF and get a clear, step-by-step game plan. Each step has its own AI chat that knows your full assignment so you can get unstuck fast.
+
 **[ClearCare](https://github.com/Deogan7/ClearCare)** — a healthcare referral management platform with voice call + SMS automation, weather-aware rescheduling, and a full React/FastAPI/PostgreSQL stack.
+
+---
 
 ---
 ## 🌍 Open Source Contributions
