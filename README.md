@@ -28,7 +28,7 @@ Always working on something - whether it's a side project or something more seri
 
 ---
 ## 🌍 Open Source Contributions
-**[agency-agents](https://github.com/msitarzewski/agency-agents)** ⭐ 60k+ — Contributed the **[LinkedIn Content Creator](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-linkedin-content-creator.md)** agent to the Marketing Division.
+**[agency-agents](https://github.com/msitarzewski/agency-agents)** ⭐ 80k+ — Contributed the **[LinkedIn Content Creator](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-linkedin-content-creator.md)** agent to the Marketing Division.
 
 ---
 ## ⚡ Fun Facts
