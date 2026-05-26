@@ -20,7 +20,7 @@ Always working on something - whether it's a side project or something more seri
 
 **[claude-check](https://github.com/fayzan123/claude-check)** · a CLI tool that analyses your prompt before you run it, estimating complexity, message cost, interrupt risk, and recommending the most suitable Claude model for the job so you never burn tokens on the wrong tier.
 
-**[Lazarus](https://github.com/farhanmir/lazarus)** · HackPrinceton Spring 2026 · Top 10 · Every year, thousands of clinical trials get shelved. Lazarus is an autonomous AI swarm that takes these abandoned trials, extracts the key data, and surfaces actionable insights to help researchers revive promising treatments that never made it to patients.
+**[Lazarus](https://github.com/farhanmir/lazarus)** · HackPrinceton Spring 2026 · Regeneron Track Win · Every year, thousands of clinical trials get shelved. Lazarus is an autonomous AI swarm that takes these abandoned trials, extracts the key data, and surfaces actionable insights to help researchers revive promising treatments that never made it to patients.
 
 **[Ghostline](https://github.com/fayzan123/ghostline)** · an automated lead generation and outreach pipeline built for Chox. Ghostline discovers developers on GitHub who are actively building AI projects, qualifies them against ideal customer profiles, and sends personalized outreach at scale without any manual effort.
 
