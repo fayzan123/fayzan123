@@ -13,23 +13,25 @@ Always working on something - whether it's a side project or something more seri
 
 ---
 ## 🔭 Currently Working On
-**[claude-check](https://github.com/fayzan123/claude-check)** — a CLI tool that analyses your prompt before you run it, estimating complexity, message cost, interrupt risk, and recommending the most efficient model. Check before you burn your limit.
+**[Claude Workflow Composer](https://github.com/fayzan123/claude-workflow-composer)** — a visual workflow builder for Claude that allows you to design, test, and deploy complex AI agents with ease.
 
 ---
 ## 🚀 Past Projects
-**[Lazarus](https://github.com/farhanmir/lazarus)** · HackPrinceton Spring 2026 · Top 10 — Every year, thousands of clinical trials get shelved. Lazarus is an autonomous AI swarm that takes those failed programs and figures out if the drugs could be repurposed for different diseases. It runs a multi-agent reasoning pipeline (Advocate, Skeptic, Curator, Judge, Trial Strategist) over data from ClinicalTrials.gov, PubMed, and openFDA, builds a knowledge graph in Neo4j, ranks repurposing candidates, and generates an executive-ready blueprint PDF.
+**[claude-check](https://github.com/fayzan123/claude-check)** — a CLI tool that analyses your prompt before you run it, estimating complexity, message cost, interrupt risk, and recommending the most [...]
 
-**[Ghostline](https://github.com/fayzan123/ghostline)** — an automated lead generation and outreach pipeline built for Chox. Ghostline discovers developers on GitHub who are actively building AI agents with real-world API calls, scores them on production intent, and enables personalized cold email outreach with human-in-the-loop review before anything is sent. Built on LangGraph, the GitHub REST API, Claude (Sonnet + Haiku), and Google Sheets — no third-party lead gen tools, no data vendors.
+**[Lazarus](https://github.com/farhanmir/lazarus)** · HackPrinceton Spring 2026 · Top 10 — Every year, thousands of clinical trials get shelved. Lazarus is an autonomous AI swarm that takes th[...]
 
-**[ThisThenThat](https://github.com/fayzan123/thisthenthat)** — upload your assignment PDF and get a clear, step-by-step game plan. Each step has its own AI chat that knows your full assignment so you can get unstuck fast.
+**[Ghostline](https://github.com/fayzan123/ghostline)** — an automated lead generation and outreach pipeline built for Chox. Ghostline discovers developers on GitHub who are actively building AI[...]
 
-**[ClearCare](https://github.com/Deogan7/ClearCare)** · WDS SPARK Hackathon 2026 — a healthcare referral management platform with voice call + SMS automation, weather-aware rescheduling, and a full React/FastAPI/PostgreSQL stack.
+**[ThisThenThat](https://github.com/fayzan123/thisthenthat)** — upload your assignment PDF and get a clear, step-by-step game plan. Each step has its own AI chat that knows your full assignment [...]
+
+**[ClearCare](https://github.com/Deogan7/ClearCare)** · WDS SPARK Hackathon 2026 — a healthcare referral management platform with voice call + SMS automation, weather-aware rescheduling, and a [...]
 
 ---
 
 ---
 ## 🌍 Open Source Contributions
-**[agency-agents](https://github.com/msitarzewski/agency-agents)** ⭐ 90k+ — Contributed the **[LinkedIn Content Creator](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-linkedin-content-creator.md)** agent to the Marketing Division.
+**[agency-agents](https://github.com/msitarzewski/agency-agents)** ⭐ 90k+ — Contributed the **[LinkedIn Content Creator](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marke[...]
 
 ---
 ## ⚡ Fun Facts
