@@ -13,7 +13,7 @@ Always working on something - whether it's a side project or something more seri
 
 ---
 ## 🔭 Currently Working On
-**[Claude Workflow Composer](https://github.com/fayzan123/claude-workflow-composer)** · a visual workflow builder for Claude that allows you to design, test, and deploy claude code workflows with ease, using your existing skills / agents.
+**[claude-workflow-composer](https://github.com/fayzan123/claude-workflow-composer)** · a visual workflow builder for Claude that allows you to design, test, and deploy claude code workflows with ease, using your existing skills / agents.
 
 ---
 ## 🚀 Past Projects
